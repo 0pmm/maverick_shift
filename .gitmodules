@@ -1,0 +1,3 @@
+[submodule "maverick_shift_codigo"]
+	path = maverick_shift_codigo
+	url = https://github.com/0pmm/maverick_shift_codigo.git
